@@ -3,11 +3,11 @@ package arenaclient
 import (
 	"fmt"
 
-	"github.com/kubeflow/arena/pkg/apis/config"
-	"github.com/kubeflow/arena/pkg/apis/types"
-	"github.com/kubeflow/arena/pkg/apis/utils"
-	"github.com/kubeflow/arena/pkg/k8saccesser"
-	"github.com/kubeflow/arena/pkg/util"
+	"github.com/ccbutcc/arena/pkg/apis/config"
+	"github.com/ccbutcc/arena/pkg/apis/types"
+	"github.com/ccbutcc/arena/pkg/apis/utils"
+	"github.com/ccbutcc/arena/pkg/k8saccesser"
+	"github.com/ccbutcc/arena/pkg/util"
 )
 
 // ArenaClient is a client which includes operations:
