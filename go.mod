@@ -1,4 +1,4 @@
-module github.com/kubeflow/arena
+module github.com/ccbutcc/arena
 
 go 1.20
 
